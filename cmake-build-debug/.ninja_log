@@ -1,0 +1,16 @@
+# ninja log v5
+7	1169	1657011881654546100	CMakeFiles/learning.dir/main.cpp.o	f6d640370434c89b
+4	661	1656300526967288059	CMakeFiles/learning.dir/chapter03/practise07.cpp.o	6deae64e803b7be0
+3	623	1656306877029992211	CMakeFiles/learning.dir/chapter03/practise16.cpp.o	f4b1d9d5c42ed635
+3	710	1656050725165228045	CMakeFiles/learning.dir/chapter02/practise03.cpp.o	6bf7cfb3bad37ce6
+698	754	1657012127701750368	learning	982fa1f8370ccbe2
+3	612	1656062523156581783	CMakeFiles/learning.dir/chapter03/practise01.cpp.o	3f5439ade0881038
+3	1169	1656298842154139337	CMakeFiles/learning.dir/chapter03/practise03.cpp.o	1ade20d34fc975ee
+4	642	1656321959934207833	CMakeFiles/learning.dir/chapter03/practise18.cpp.o	270310668c6ac922
+0	89	1657617538917119462	build.ninja	46293ea32f0c1c0d
+3	714	1656322292606299309	CMakeFiles/learning.dir/chapter03/practise27.cpp.o	3d4996a6021ddda6
+3	152	1656048995120544180	CMakeFiles/learning.dir/chapter02/practise02.cpp.o	2d41868bd0d30d4b
+3	969	1656317354398383465	CMakeFiles/learning.dir/chapter03/practise25.cpp.o	cecaf296508d0d26
+4	692	1656322056747823891	CMakeFiles/learning.dir/util/util.cpp.o	8818b3bed494ed23
+4	642	1656321959934041485	CMakeFiles/learning.dir/chapter03/practise26.cpp.o	da4fd9fe649740a4
+5	698	1657012127643537874	CMakeFiles/learning.dir/chapter03/practise32.cpp.o	3097b432ea16470a
